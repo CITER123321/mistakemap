@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+coverage/
+.env
+.env.local
+.env*.local
+*.log
+INSTRUKCJA-MACIEJ.md
+.vercel
+next-env.d.ts
+*.tsbuildinfo
